@@ -42,7 +42,6 @@ function indexAt(node, collection, linkedList) {
       return index
     }
     currentNode = next(currentNode, collection)
-    index ++
   }
 }
 
